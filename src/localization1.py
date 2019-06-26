@@ -14,7 +14,7 @@ import os
 
 grid_dim=17.5 #cm
 
-eefe
+#comment for trying 
 #define the publishers
 ################################################################################
 #publish the robots and obstacles positions in pixels for the map:
